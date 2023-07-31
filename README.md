@@ -3,6 +3,7 @@ Automatic data Project
 In this Course Project for the "Get Started with Python" module of the Google Advanced Data Analytics Professional Certificate specialization we will demonstrate your ability to use Python for importing, inspecting, and organizing data. 
 
 Instructions
+
 Step 1: Access the Templates
 To begin the project, access the provided templates for the following documents:
 
